@@ -1,0 +1,5 @@
+example/.venv
+example/.mypy_cache
+example/Pipfile.lock
+example/tmp
+example/**/__pycache__
