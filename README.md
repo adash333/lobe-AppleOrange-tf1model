@@ -6,13 +6,19 @@ Microsoftの機械学習アプリLobe(beta版)を用いてリンゴとみかん�
 
 [Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる（２）Windows10でPython3.6+TensorFlow1.15をセットアップ](https://i-doctor.sakura.ne.jp/font/?p=44703)
 
+[https://i-doctor.sakura.ne.jp/font/?p=44808](Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる（３）Windows10ローカル環境でtf_example.pyを実行)
+
 ## 実行方法
 
 `git clone https://github.com/adash333/lobe-AppleOrange-tf1model.git`
 
 Run `cd example` 
 
-Run `pipenv install` to setup virtual environment python 3.6
+Run `pipenv --python 3.6` to setup virtual environment python 3.6
+
+Run `pipenv shell`
+
+Run `pipenv install`
 
 Run `python tf_example.py 001.jpg` to predict.
 
