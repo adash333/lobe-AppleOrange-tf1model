@@ -6,7 +6,7 @@ Microsoftの機械学習アプリLobe(beta版)を用いてリンゴとみかん�
 
 [Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる（２）Windows10でPython3.6+TensorFlow1.15をセットアップ](https://i-doctor.sakura.ne.jp/font/?p=44703)
 
-[https://i-doctor.sakura.ne.jp/font/?p=44808](Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる（３）Windows10ローカル環境でtf_example.pyを実行)
+[Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる（３）Windows10ローカル環境でtf_example.pyを実行](https://i-doctor.sakura.ne.jp/font/?p=44808)
 
 ## 実行方法
 
